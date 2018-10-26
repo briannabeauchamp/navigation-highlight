@@ -36,7 +36,7 @@ h1 {
 }
 
 .nav a {
-  color: #2f2d13;
+  color: #fff;
   padding: .5em;
   background-color: #b2a212;
   border-radius: 4px;
@@ -70,6 +70,7 @@ img {
 p {
   margin: .3em;
   padding: .5em;
+  color: #2f2d13;
 }
 
 footer {
