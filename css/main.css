@@ -14,19 +14,21 @@ body {
 
 header {
   background-color: #ffe500;
-  padding: .5em;
+  padding: .75em;
 }
 
 h1 {
   margin: 0;
+  padding: .2em;
   text-align: center;
   font-family: "Sigmar One", cursive;
   color: #b20953;
+  font-size: 3rem;
 }
 
 .nav {
-  margin: 0;
-  padding: 0;
+  margin: .3em;
+  padding: .2em;
   list-style-type: none;
   text-align: center;
 }
@@ -40,8 +42,8 @@ h1 {
   padding: .5em;
   background-color: #b2a212;
   border-radius: 4px;
-  font-size: .75rem;
   text-decoration: none;
+  font-size: 1.125rem;
 }
 
 .nav a:hover {
@@ -65,6 +67,7 @@ img {
   margin: .3em;
   display: block;
   width: 100%;
+  padding: 0 .75em;
 }
 
 p {
